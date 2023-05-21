@@ -1,10 +1,17 @@
 package day02;
 
 public class program1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	
+	//main method
+	/*
+	 today we are seeing package
+	 and
+	 class with main method
+	 */
+	public static void main (String[] args) {
+          System.out.println("Good day..!");
+          System.out.println("good morning..!");
+          System.out.println("good evening..!");
+          }
+	
 }
